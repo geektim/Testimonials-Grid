@@ -79,7 +79,7 @@ main.container {
 .container > .one {
     background-image: url('bg-pattern-quotation.svg');
     background-repeat: no-repeat;
-    background-position: top right;
+    background-position: 85% 0%;
     background-color: var(--moderate-violet);
     color: var(--white);
 }
